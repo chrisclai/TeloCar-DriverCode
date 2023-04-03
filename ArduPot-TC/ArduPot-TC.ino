@@ -1,7 +1,7 @@
 /*
 * Ardupot Receiver Code
 * Christopher Lai
-* CPP Hyperloop Edition
+* TeloCar Edition
 * Last Updated: 8/26/2022
 */
 

@@ -41,7 +41,7 @@ while True:
 
         print('.', end='', flush=True)
 
-        r = requests.put('http://74.207.241.102:5000/upload', data=imdata.tobytes())
+        r = requests.put('http://45.79.77.67:5000/upload', data=imdata.tobytes())
 
         print(r)
 
