@@ -10,6 +10,3 @@ See below for list of folders and related contents for flashing and using code i
 
 ## TeloCar Operation Guide
 https://docs.google.com/document/d/137JsCfSfhKRVVQeqGZYtQF6EzS0PBUuK5JchQczr0YI/edit?usp=sharing
-
-## TeloCar IOT Demonstration Video
-https://youtu.be/OM3XVr2jAS4
